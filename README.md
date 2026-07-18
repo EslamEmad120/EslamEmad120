@@ -29,22 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EslamEmad120&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamEmad120&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EslamEmad120&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 📧 **Email:** smsm3559@gmail.com
