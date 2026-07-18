@@ -21,10 +21,10 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C#, Java, JavaScript, Python, SQL
-- **Frontend:** HTML, CSS, Bootstrap
-- **Backend:** ASP.NET, Node.js
-- **Database:** SQL Server, MySQL
+- **Languages:** C++, JavaScript, Python, SQL
+- **Frontend:** HTML, CSS, Bootstrap, React.js, Next.js, tailwind.css
+- **Backend:**  Node.js
+- **Database:** Mongodb
 - **Tools:** Git, GitHub, Visual Studio, VS Code
 
 ---
