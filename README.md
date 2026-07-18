@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eslam Emad</h1>
+<h3 align="center">Software Developer | Passionate about Building Scalable Applications</h3>
 
-<!--
-**EslamEmad120/EslamEmad120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Welcome to my GitHub profile! <br>
+  I'm passionate about software development, problem-solving, and continuously learning new technologies.
+  I enjoy building clean, efficient, and maintainable applications while expanding my knowledge across different programming fields.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Software Developer passionate about creating high-quality software solutions.
+- 🌱 Always learning new technologies and improving my programming skills.
+- 🚀 Interested in Web Development, Backend Development, and Software Engineering.
+- 🛠 I enjoy working on real-world projects and contributing to open-source whenever possible.
+- 📚 Strong believer in continuous learning and writing clean, maintainable code.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C#, Java, JavaScript, Python, SQL
+- **Frontend:** HTML, CSS, Bootstrap
+- **Backend:** ASP.NET, Node.js
+- **Database:** SQL Server, MySQL
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+📧 **Email:** smsm3559@gmail.com
+
+📱 **Phone:** +20 114 399 9343
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/eslam-emad-a87291225/
+
+---
+
+## 💡 Quote
+
+> *"Success is built one commit at a time."*
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to connect with me.
